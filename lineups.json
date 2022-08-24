@@ -1,0 +1,30 @@
+{
+  "viper": {
+    "bind": {
+      "a": ["https://drive.google.com/file/d/1Hx7xqGWWIEb_1YL0USCDcCYnOurR5XtR/view?usp=sharing"],
+      "b": ["https://drive.google.com/file/d/1kHW1ZIJN9OdQi7NykSt5lBdw-R7FNxdN/view?usp=sharing", "https://drive.google.com/file/d/1H3NQSlMOgH7Sv7OL51s-Nmq8BomsuKOm/view?usp=sharing"]
+    },
+    "breeze": {
+      "a": ["https://drive.google.com/file/d/1Prf3yPJlqzcxTRgPLph48_pG4nzLW0JB/view?usp=sharing"],
+      "b": ["https://drive.google.com/file/d/18SAf0UXZgc78N43jcHTU40n5Cz1DF8F7/view?usp=sharing"]
+    },
+    "fracture": {
+      "a": ["https://drive.google.com/file/d/1MFS4sLLcFjjqw4SUWKnwLqGBUwIKbIwD/view?usp=sharing"],
+      "b": ["https://drive.google.com/file/d/1pbVXtMyfiXRMhNQQmg4dO0nKjJIXIdi9/view?usp=sharing", "https://drive.google.com/file/d/1YFup0j6gnLRCtD0_vLAZo98XAmrOQc_H/view?usp=sharing"]
+    },
+    "icebox": {
+      "a": ["https://drive.google.com/file/d/1WJElROb05-5YT30th4J9qGdwL0P6D8Ui/view?usp=sharing"],
+      "b": ["https://drive.google.com/file/d/1vcQ_DilmBxiPZ6G2-WuNW4R5MIqS36tV/view?usp=sharing"]
+    }
+  },
+  "brimstone": {
+    "ascent": {
+      "a": ["https://drive.google.com/file/d/166pH9Tn6FDESTyM6A09n567PJz7MzImU/view?usp=sharing"],
+      "b": ["https://drive.google.com/file/d/1zEbf_ywU-kEcomKs3H7Je8n-y09OcJda/view?usp=sharing"]
+    },
+    "haven": {
+      "a": ["https://drive.google.com/file/d/114jTO50INO0yjvmwT9RrwUBSGxRb_5CX/view?usp=sharing"],
+      "b": ["https://drive.google.com/file/d/1XhU6VBOIXJ3BZm48sHnDCiTFS6bpoB7w/view?usp=sharing"]
+    }
+  }
+}
